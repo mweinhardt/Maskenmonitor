@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Willkommen zum Maskenmonitor!
 
-You can use the [editor on GitHub](https://github.com/mweinhardt/maskenmonitor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von Gesichtsmasken bzw. einer Nasen-Mund-Bedeckung während der Corona-Pandemie in Deutschland ist und wie es sich über die Zeit verändert.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dafür bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen Räumen anzustellen. Dies kann zum Beispiel in der U-Bahn sein, wenn Sie im Café sitzen oder während Sie in einem Geschäft wartend in der Schlange stehen. Schauen Sie, wer von den Personen um Sie herum eine Maske trägt und wer nicht. Ein paar Minuten am Stück genügen.
 
-### Markdown
+Zum Asufüllen geht es hier: [www.soscisurvey.de/maskenmonitor](url)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
-```markdown
-Syntax highlighted code block
+- Bleiben Sie an einem Ort. Fangen Sie mit der Person an, die sich räumlich zu Ihnen am nächsten befindet und fahren dann mit den Personen fort, die sich etwas weiter weg von Ihnen befinden (Sie selbst und Ihre Angehörigen zählen Sie bitte nicht mit.)
 
-# Header 1
-## Header 2
-### Header 3
+- Bitte konzentrieren Sie sich auf erwachsene Personen über 20 Jahre (schätzen Sie ggf. das Alter).
 
-- Bulleted
-- List
+- Falls Personen während des Ausfüllens die Maske auf oder absetzen, halten Sie bitte fest, was Sie zuerst gesehen haben.
 
-1. Numbered
-2. List
+- Jede einzelne eingetragene Beobachtung hilft uns weiter. Innerhalb einer Session können Sie maximal 20 Beobachtungen festhalten. Falls Sie mehr Beobachtungen eintragen möchten, starten Sie den Maskenmonitor einfach erneut.
 
-**Bold** and _Italic_ and `Code` text
+- Wichtig: Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mweinhardt/maskenmonitor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
