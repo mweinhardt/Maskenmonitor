@@ -4,7 +4,7 @@ Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von
 
 Dafür bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen Räumen anzustellen. Dies kann zum Beispiel in der U-Bahn sein, wenn Sie im Café sitzen oder während Sie in einem Geschäft wartend in der Schlange stehen. Schauen Sie, wer von den Personen um Sie herum eine Maske trägt und wer nicht. Ein paar Minuten am Stück genügen.
 
-Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)
+**Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)**
 
 Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
