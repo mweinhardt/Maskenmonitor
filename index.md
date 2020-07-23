@@ -1,10 +1,10 @@
-## Willkommen zum Maskenmonitor!
+Willkommen zum Maskenmonitor!
 
 Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von Gesichtsmasken bzw. einer Nasen-Mund-Bedeckung während der Corona-Pandemie in Deutschland ist und wie es sich über die Zeit verändert.
 
 Dafür bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen Räumen anzustellen. Dies kann zum Beispiel in der U-Bahn sein, wenn Sie im Café sitzen oder während Sie in einem Geschäft wartend in der Schlange stehen. Schauen Sie, wer von den Personen um Sie herum eine Maske trägt und wer nicht. Ein paar Minuten am Stück genügen.
 
-Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)
+## Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)
 
 Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
@@ -14,7 +14,5 @@ Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
 - Falls Personen während des Ausfüllens die Maske auf oder absetzen, halten Sie bitte fest, was Sie zuerst gesehen haben.
 
-- Jede einzelne eingetragene Beobachtung hilft uns weiter. Innerhalb einer Session können Sie maximal 20 Beobachtungen festhalten. Falls Sie mehr Beobachtungen eintragen möchten, starten Sie den Maskenmonitor einfach erneut.
-
-- Wichtig: Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe!
+- Jede einzelne eingetragene Beobachtung hilft uns weiter! Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe.
 
