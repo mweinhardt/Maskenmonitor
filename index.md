@@ -1,6 +1,4 @@
-Willkommen zum Maskenmonitor!
-
-Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von Gesichtsmasken bzw. einer Nasen-Mund-Bedeckung während der Corona-Pandemie ist und wie es sich über die Zeit verändert.
+Willkommen! Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von Gesichtsmasken bzw. einer Nasen-Mund-Bedeckung während der Corona-Pandemie ist und wie es sich über die Zeit verändert.
 
 ## Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)
 
@@ -15,7 +13,6 @@ Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 - Falls Personen während des Ausfüllens die Maske auf oder absetzen, halten Sie bitte fest, was Sie zuerst gesehen haben.
 
 - Jede einzelne eingetragene Beobachtung hilft uns weiter! Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe.
-
 
 
 ## [Impressum](https://mweinhardt.github.io/Maskenmonitor/Impressum)
