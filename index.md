@@ -16,3 +16,6 @@ Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
 - Jede einzelne eingetragene Beobachtung hilft uns weiter! Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe.
 
+
+
+## [Impressum](https://mweinhardt.github.io/Maskenmonitor/Impressum)
