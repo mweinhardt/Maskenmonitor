@@ -1,6 +1,6 @@
 Willkommen! Wir möchten in diesem Projekt dokumentieren, wie weit verbreitet das Tragen von Gesichtsmasken bzw. einer Nasen-Mund-Bedeckung während der Corona-Pandemie ist und wie es sich über die Zeit verändert.
 
-## Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor)
+## Zum Ausfüllen geht es hier: [Maskenmonitor](www.soscisurvey.de/maskenmonitor/)
 
 Hier bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen Räumen anzustellen. Dies kann zum Beispiel in der U-Bahn sein, wenn Sie im Café sitzen oder während Sie in einem Geschäft wartend in der Schlange stehen. Schauen Sie, wer von den Personen um Sie herum eine Maske trägt und wer nicht. Ein paar Minuten am Stück genügen.
 
