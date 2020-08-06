@@ -8,6 +8,8 @@ Hier bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen
 
 Einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
+- Zum Ausfüllen benötigen Sie lediglich ein Smartphone mit Internetverbindung.
+
 - Bleiben Sie an einem Ort. Fangen Sie mit der Person an, die sich räumlich zu Ihnen am nächsten befindet und fahren dann mit den Personen fort, die sich etwas weiter weg von Ihnen befinden (Sie selbst und Ihre Angehörigen zählen Sie bitte nicht mit.)
 
 - Bitte konzentrieren Sie sich auf erwachsene Personen über 20 Jahre (schätzen Sie ggf. das Alter).
