@@ -4,6 +4,8 @@ Hier bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen
 
 Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
+- Zum Ausfüllen benötigen Sie lediglich ein Smartphone mit Internetverbindung.
+
 - Bitte führen Sie Ihre Beobachtungen an einem öffentlichen Ort durch, der für Publikumsverkehr zugänglich ist. Bleiben Sie an einem Ort und schauen sich von dort aus um. Rufen Sie bei einem Ortswechsel den Maskenmonitor erneut auf.
 
 - Am Anfang wählen Sie den Beobachtungsmodus aus. Es gibt drei Möglichkeiten. Bei _Kurz und Kompakt I_  zählen Sie einfach die Personen mit und ohne Maske um sich herum und tragen die Werte in die Eingabemaske ein. _Kurz und Kompakt II_ eignet sich für Örtlichkeiten, an denen Personen sich bewegen und schnell vorüber gehen, etwa in einem Einkaufszentrum. Der _ausführlichere Modus_ erhebt zusätzlich pro Person ungefähres Alter und Geschlecht. Dies dauert dadurch länger, wir erhalten aber auch wichtige, zusätzliche Informationen, etwa ob Masken inkorrekt getragen werden.
