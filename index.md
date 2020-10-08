@@ -4,7 +4,7 @@ Hier bitten wir Sie, kurze Beobachtungen während Ihres Alltags in öffentlichen
 
 Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 
-- Zum Ausfüllen benötigen Sie lediglich ein Smartphone mit Internetverbindung.
+- Zum Ausfüllen benötigen Sie lediglich ein mobiles Gerät mit Internetverbindung (Smartphone, Tablet oder Laptop).
 
 - Bitte führen Sie Ihre Beobachtungen an einem öffentlichen Ort durch, der für Publikumsverkehr zugänglich ist. Bleiben Sie an einem Ort und schauen sich von dort aus um. Rufen Sie bei einem Ortswechsel den Maskenmonitor erneut auf.
 
@@ -21,5 +21,6 @@ Hier sind einige kurze Anweisungen, die wir Sie bitten zu beachten:
 - Jede einzelne eingetragene Beobachtung hilft uns weiter! Sie können am Maskenmonitor so oft teilnehmen wie Sie möchten. Regelmäßige Beobachtungen wären uns eine große Hilfe.
 
 
+**[Hintegrund](https://mweinhardt.github.io/Maskenmonitor/Background)**      
 
-**[Hintegrund](https://mweinhardt.github.io/Maskenmonitor/Background)**      **[Impressum](https://mweinhardt.github.io/Maskenmonitor/Impressum)**
+**[Impressum](https://mweinhardt.github.io/Maskenmonitor/Impressum)**
